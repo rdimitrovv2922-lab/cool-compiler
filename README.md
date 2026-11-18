@@ -2,6 +2,8 @@
 
 A C++ compiler-construction project for the COOL language. This repository combines the lexical analyzer and parser, implemented with ANTLR4 and C++.
 
+Explore my other projects in the [rdimitrov project portfolio](https://github.com/rdimitrovv2922-lab/rdimitrov).
+
 ## Project status
 
 The lexer and parser stages are implemented. The compiler project is incomplete: **semantic analysis and code generation have not been implemented**. This repository does not claim to be a complete compiler.
